@@ -1,4 +1,4 @@
-package com.care.dao;
+package com.care.root.dao;
 
 import org.springframework.stereotype.Repository;
 
